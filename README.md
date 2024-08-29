@@ -100,6 +100,7 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 > [!Warning]
 > Below tools must be installed on <mark>Jenkins Worker</mark>. 
 - <b id="docker">Install docker</b>
+Run via root user or ubuntu user
 ```bash
 sudo su
 ```
@@ -107,9 +108,17 @@ sudo su
 apt update
 ```
 ```bash
-apt install docker.io -y
+sudo apt install docker.io -y
+sudo apt install docker-compose -y
 usermod -aG docker $USER && newgrp docker
+reboot (through root user)
 ```
+Run below command to validate through ubuntu user
+
+```bash
+docker ps
+```
+
 #
 - <b id="Jenkins">Install and configure Jenkins</b>
 ```bash
