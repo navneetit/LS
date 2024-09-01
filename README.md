@@ -51,19 +51,19 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 | Clean Up | <a href="#Clean">Clean up</a>     |
 | OWASP setup | <a href="#Owasp">Install and configure OWASP</a>     |
 #
+#
+| **Jenkins**: Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat.|
 
-|**Jenkins**: Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration, and continuous delivery. It is a server-based system that runs in servlet containers such as Apache Tomcat.|
+| **Docker**: Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine. It was first released in 2013 and is developed by Docker.|
 
-|**Docker**: Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine. It was first released in 2013 and is developed by Docker.|
+| **SonarQube**: SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs and code smells on 29 programming languages.|
 
-|**SonarQube**: SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs and code smells on 29 programming languages.|
+| **eksctl**: Eksctl is a user-friendly command-line tool that makes it easy to create and manage EKS clusters on AWS. in the official documentation. Basic operations include creating, querying, and deleting clusters. created with eksctl.|
 
-|**eksctl**: Eksctl is a user-friendly command-line tool that makes it easy to create and manage EKS clusters on AWS. in the official documentation. Basic operations include creating, querying, and deleting clusters. created with eksctl.|
+| **Argocd**: Argo CD is a declarative continuous delivery tool for Kubernetes. It can be used as a standalone tool or as a part of your CI/CD workflow to deliver needed resources to your cluster. It is mainly focused on continuous delivery for Kubernetes applications. It uses GitOps principles to manage the state of applications in a Kubernetes cluster.|
 
-|**Argocd**: Argo CD is a declarative continuous delivery tool for Kubernetes. It can be used as a standalone tool or as a part of your CI/CD workflow to deliver needed resources to your cluster. It is mainly focused on continuous delivery for Kubernetes applications. It uses GitOps principles to manage the state of applications in a Kubernetes cluster.|
-
-|**OWASP**: The Open Worldwide Application Security Project is an online community that produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security. The OWASP provides free and open resources.|
-
+| **OWASP**: The Open Worldwide Application Security Project is an online community that produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security. The OWASP provides free and open resources.|
+#
 
 
 ### Pre-requisites to implement this project:
